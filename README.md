@@ -1,5 +1,7 @@
 # react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tyscorp/react-transform-jspm-hmr.svg)](https://greenkeeper.io/)
+
 A [React Transform](https://github.com/gaearon/babel-plugin-react-transform) that enables hot reloading React classes using JSPM. Hot module replacement is supported via [jspm-hot-reloader](https://github.com/capaj/jspm-hot-reloader) and [systemjs/plugin-babel](https://github.com/systemjs/plugin-babel). This is based on [react-transform-hmr](https://github.com/gaearon/react-transform-hmr) by [Dan Abramov](https://github.com/gaearon).
 
 ## Installation
